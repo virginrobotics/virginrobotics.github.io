@@ -1,0 +1,72 @@
+body {
+	background: url('images/cucumber.jpg');
+  background-size: 60px auto;
+
+
+}
+
+#banner h1{
+background : rgba(183, 187, 189, 0.8);
+
+
+}
+
+#banner img {
+ padding: 0px;
+ height: auto;
+ width: 25%;
+
+}
+
+#headline h3 {
+	font-family: sans-serif;
+  background-color: rgba(52, 235, 161, 0.7);
+	color: white;
+}
+
+#counter span {
+	background-color: white;
+	font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+div#container {
+	height: 300px;
+	width:  350px;
+	padding: 0;
+	background: url('images/wip.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+
+}
+
+div.a {
+height: 70px;
+width: 85px;
+padding: 5px;
+
+position: relative;
+margin: 2px;
+margin-right: 0;
+}
+
+img#coolwhip {
+
+	height: 80%;
+  width: auto;
+	padding: 0;
+
+}
+
+.btn-image {
+	background-image: url('images/cucumber.jpg');
+	background-size: contain;
+}
+
+.display img {
+height: auto;
+width: 15%;
+
+}
+.workarea {
+	font-family: 'Big Shoulders Stencil Text', cursive;
+}
